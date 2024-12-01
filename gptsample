@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World Page</title>
+    <style>
+        /* 배경색을 하늘색으로 설정 */
+        body {
+            background-color: #87CEEB; /* 하늘색 */
+            color: black; /* 글자 색을 검은색으로 설정 */
+            font-family: Arial, sans-serif; /* 글꼴 설정 */
+            text-align: center; /* 텍스트 중앙 정렬 */
+            height: 100vh; /* 화면 높이에 맞게 확장 */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello World!</h1>
+</body>
+</html>
